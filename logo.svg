@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="La Portée Magique">
+  <rect width="120" height="120" rx="28" fill="#1b2a3a"/>
+  <g stroke="#c7d5e2" stroke-width="2.4" stroke-linecap="round">
+    <line x1="16" y1="42" x2="104" y2="42"/><line x1="16" y1="53" x2="104" y2="53"/>
+    <line x1="16" y1="64" x2="104" y2="64"/><line x1="16" y1="75" x2="104" y2="75"/>
+    <line x1="16" y1="86" x2="104" y2="86"/>
+  </g>
+  <g stroke-width="3.2" stroke-linecap="round">
+    <line x1="35.5" y1="91" x2="35.5" y2="60" stroke="#e53935"/>
+    <line x1="51.5" y1="85.5" x2="51.5" y2="54.5" stroke="#fb8c00"/>
+    <line x1="67.5" y1="80" x2="67.5" y2="49" stroke="#fdd835"/>
+    <line x1="83.5" y1="74.5" x2="83.5" y2="30" stroke="#00a3b8"/>
+  </g>
+  <ellipse cx="29" cy="92" rx="7.2" ry="5.2" fill="#e53935" transform="rotate(-20 29 92)"/>
+  <ellipse cx="45" cy="86.5" rx="7.2" ry="5.2" fill="#fb8c00" transform="rotate(-20 45 86.5)"/>
+  <ellipse cx="61" cy="81" rx="7.2" ry="5.2" fill="#fdd835" transform="rotate(-20 61 81)"/>
+  <ellipse cx="77" cy="75.5" rx="7.2" ry="5.2" fill="#00a3b8" transform="rotate(-20 77 75.5)"/>
+  <path d="M83.5 30 C85 38 95 40 93 52" stroke="#00a3b8" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+  <path d="M97 14 l2.6 6.4 6.4 2.6 -6.4 2.6 -2.6 6.4 -2.6 -6.4 -6.4 -2.6 6.4 -2.6z" fill="#f2b41c"/>
+  <path d="M22 22 l1.6 3.9 3.9 1.6 -3.9 1.6 -1.6 3.9 -1.6 -3.9 -3.9 -1.6 3.9 -1.6z" fill="#f2b41c"/>
+</svg>
